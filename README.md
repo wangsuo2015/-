@@ -1,2 +1,1 @@
-# -
-http://www.scctc.org.cn/templates/Download/index.aspx?nodeid=71
+# - http://www.scctc.org.cn/templates/Download/index.aspx?nodeid=71
